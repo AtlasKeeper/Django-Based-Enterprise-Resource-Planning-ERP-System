@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Department List</title>
+</head>
+<body>
+    <h1>Department List</h1>
+    <ul>
+        {% for department in departments %}
+            <li><a href="{% url 'department_detail' pk=department.pk %}">{{ department.name }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

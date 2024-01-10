@@ -30,10 +30,12 @@ HTML
 CSS
 
 <h2>Getting Started</h2>
-1.Set up a virtual environment.
-2.Install Django (pip install django).
-3.Create Django project and app.
-4.Define models for employees and departments.
-5.Implement views, templates, and URLs for CRUD operations.
-6.Run migrations and create a superuser.
-7.Start the development server and explore ERP!
+<ol>
+<li>Set up a virtual environment.</li>
+<li>Install Django (pip install django).</li>
+<li>Create Django project and app.</li>
+<li>Define models for employees and departments.</li>
+<li>Implement views, templates, and URLs for CRUD operations.</li>
+<li>Run migrations and create a superuser.</li>
+<li>Start the development server and explore ERP!</li>
+</ol>

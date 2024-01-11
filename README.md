@@ -1,5 +1,3 @@
-<h1> This project aims to provide a foundation for managing employee and department information within an organization, offering basic CRUD (Create, Read, Update, Delete) operations</h1>
-
 <h2>Key Features</h2>
 1. Employee Management:
 <li>View a list of employees with their names and email addresses.</li>
